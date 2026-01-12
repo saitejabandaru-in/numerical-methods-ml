@@ -1,0 +1,26 @@
+# MATLAB autosave & backup files
+*.asv
+*.m~
+*.autosave
+*.bak
+*.tmp
+
+# MATLAB build folders
+slprj/
+codegen/
+mex/
+simulink/
+
+# MATLAB figures & session files
+*.fig
+*.mat~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Optional: ignore large intermediate files
+results/*.fig
