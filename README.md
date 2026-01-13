@@ -7,11 +7,18 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/saitejabandaru-in/numerical-methods-ml/actions/workflows/blank.yml">
+    <img src="https://github.com/saitejabandaru-in/numerical-methods-ml/actions/workflows/blank.yml/badge.svg" />
+  </a>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/MATLAB-Numerical%20Computing-orange?style=flat-square"/>
   <img src="https://img.shields.io/badge/Machine%20Learning-Unsupervised-blue?style=flat-square"/>
   <img src="https://img.shields.io/badge/Methods-PCA%20%7C%20LDA%20%7C%20NMF%20%7C%20KMeans-brightgreen?style=flat-square"/>
   <img src="https://img.shields.io/badge/Status-Complete-success?style=flat-square"/>
 </p>
+
 
 # 📊 Numerical Methods for Machine Learning (MATLAB)
 
