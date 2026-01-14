@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=2E3A59&height=200&section=header&text=Numerical%20Methods%20for%20Machine%20Learning&fontSize=40&fontColor=FFFFFF&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F7CAC,100:1C2B36&height=180&section=header&text=Numerical%20Methods%20for%20Machine%20Learning&fontSize=34&fontColor=E6EEF3&animation=fadeIn&fontAlignY=45" />
 </p>
 
 <p align="center">
